@@ -1,0 +1,20 @@
+name: archmon
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+  - https://repo.anaconda.com/pkgs/msys2
+dependencies:
+  - python=3.10
+  - jupyter
+  - matplotlib
+  - numpy
+  - pandas
+  - scikit-learn
+  - geopandas
+  - rasterio
+  - scikit-image
+  - seaborn
+prefix: C:\Users\bazan\anaconda3\envs\archmon
